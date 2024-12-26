@@ -1,0 +1,15 @@
+main{
+    text-align: center;
+    padding: 65vh 10% 0% 10%;
+  }
+  main>h1,p{
+    color: white;
+    font-size:150%;
+  }
+  main>h1{
+    text-align: left;
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 350%;
+  }
